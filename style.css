@@ -1,0 +1,93 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar styles */
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Main content styles */
+.container h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.container p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+/* Footer styles */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+}
+
+/* styles.css */
+
+/* Navbar styles */
+.navbar {
+    transition: all 0.4s;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav .nav-link {
+    transition: color 0.4s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fff !important;
+}
+
+/* Hero Section */
+.hero-section {
+    background: url('your-background-image.jpg') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-section h1 {
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    font-size: 0.9rem;
+}
+.CRUSAL-itemcarousel-item active {
+    height: 30px;
+    }
